@@ -1,1 +1,0 @@
-worker: python riot-bot.py
