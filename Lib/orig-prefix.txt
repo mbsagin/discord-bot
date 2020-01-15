@@ -1,1 +1,1 @@
-c:\users\beraa\anaconda3
+c:\users\beraa\appdata\local\programs\python\python38
